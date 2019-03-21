@@ -1,16 +1,3 @@
-'''with open("block.txt")as f1:
-    s = f1.readlines()
-    n = s[0]
-    n1 = n.split()
-    n11 = n1[1]
-    n12 = n1[2]
-    with open("out2.txt")as f2:
-        for line in f2:
-            n2 = line.strip("\n").split("_")
-            n21 = n2[1]
-            if int(n21) >= int(n11) and int(n21) <= int(n12):
-                print(line.strip("\n"))
-'''
 import os
 import sys
 with open(sys.argv[1])as f1:
