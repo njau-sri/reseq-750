@@ -1,4 +1,5 @@
 /*This is only a test file,mainly to test whether my github can works well or not*/
+/*This is the first c program i wrote,keep going,haha*/
 #include<stdio.h>
 int main(void)
 {
