@@ -1,0 +1,1 @@
+This directory contains all the code files that i created for haplotype blocks construction.
